@@ -1,0 +1,18 @@
+{
+  "name": "bot_ipb",
+  "version": "1.0.0",
+  "description": "Bot para IPB no discord do forum",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RenildoMarcio",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.9.0",
+    "goo.gl": "^0.1.4",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  }
+}
